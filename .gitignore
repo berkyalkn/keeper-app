@@ -7,8 +7,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Node.js dependencies
-node_modules/
-package-lock.json
+node_modules
 
 # Vite build output
 dist/
